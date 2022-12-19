@@ -1,0 +1,316 @@
+{
+  "links": [{"source": 0, "target": 1, "length": 800.0, "width": 8.0}],
+  "nodes": [
+    {
+      "number": 0,
+      "id": "LGA1",
+      "proportions": [
+        {
+          "cases": 565,
+          "month": "Jan.",
+          "valuetype": "Confirmed"
+        }
+      ],
+      "columns": [
+        {
+          "columnvalue": 600,
+          "columnname": "Housing"
+        },
+        {
+          "columnvalue": 1000,
+          "columnname": "Age"
+        },
+        {
+          "columnvalue": 500,
+          "columnname": "Income"
+        },
+        {
+          "columnvalue": 700,
+          "columnname": "Trans"
+        },
+        {
+          "columnvalue": 1000,
+          "columnname": "Relationship"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "id": "LGA2",
+      "proportions": [
+        {
+          "cases": 750,
+          "month": "Jan.",
+          "valuetype": "Tested"
+        },
+        {
+          "cases": 550,
+          "month": "Feb.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 645,
+          "month": "Mar.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 966,
+          "month": "Apr.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 750,
+          "month": "May.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 777,
+          "month": "Jun.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 453,
+          "month": "Jul.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 750,
+          "month": "Jan.",
+          "valuetype": "Tested"
+        },
+        {
+          "cases": 550,
+          "month": "Feb.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 645,
+          "month": "Mar.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 966,
+          "month": "Apr.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 750,
+          "month": "May.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 777,
+          "month": "Jun.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 453,
+          "month": "Jul.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 750,
+          "month": "Jan.",
+          "valuetype": "Tested"
+        },
+        {
+          "cases": 550,
+          "month": "Feb.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 645,
+          "month": "Mar.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 966,
+          "month": "Apr.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 750,
+          "month": "May.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 777,
+          "month": "Jun.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 453,
+          "month": "Jul.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 750,
+          "month": "Jan.",
+          "valuetype": "Tested"
+        },
+        {
+          "cases": 550,
+          "month": "Feb.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 645,
+          "month": "Mar.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 966,
+          "month": "Apr.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 750,
+          "month": "May.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 777,
+          "month": "Jun.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 453,
+          "month": "Jul.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 750,
+          "month": "Jan.",
+          "valuetype": "Tested"
+        },
+        {
+          "cases": 550,
+          "month": "Feb.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 4,
+          "month": "Mar.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 3,
+          "month": "Apr.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 2,
+          "month": "May.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 1,
+          "month": "Jun.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 5,
+          "month": "Jul.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 407,
+          "month": "Aug.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 300,
+          "month": "Sept.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 300,
+          "month": "Oct.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 300,
+          "month": "Nov.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 300,
+          "month": "Dec.",
+          "valuetype": "Confirmed"
+        },
+
+        {
+          "cases": 300,
+          "month": "Jan.",
+          "valuetype": "Confirmed"
+        }
+      ],
+      "columns": [
+        {
+          "columnvalue": 1000,
+          "columnname": "Housing"
+        },
+        {
+          "columnvalue": 1000,
+          "columnname": "Age"
+        },
+        {
+          "columnvalue": 1200,
+          "columnname": "Income"
+        },
+        {
+          "columnvalue": 1000,
+          "columnname": "Trans"
+        },
+        {
+          "columnvalue": 1000,
+          "columnname": "Relationship"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "LGA3",
+      "proportions": [
+        {
+          "cases": 565,
+          "month": "Jan.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 565,
+          "month": "Feb.",
+          "valuetype": "Confirmed"
+        },
+        {
+          "cases": 900,
+          "month": "Mar.",
+          "valuetype": "Confirmed"
+        }
+      ],
+      "columns": [
+        {
+          "columnvalue": 600,
+          "columnname": "Housing"
+        },
+        {
+          "columnvalue": 1000,
+          "columnname": "Age"
+        },
+        {
+          "columnvalue": 500,
+          "columnname": "Income"
+        },
+        {
+          "columnvalue": 700,
+          "columnname": "Trans"
+        },
+        {
+          "columnvalue": 1000,
+          "columnname": "Relationship"
+        }
+      ]
+    }
+  ]
+}
+
